@@ -1,4 +1,4 @@
-FROM ts-base
+FROM obcon/alpine-base
 
 ADD rootfs /
 
